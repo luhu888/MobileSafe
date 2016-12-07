@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">手机安全卫士</string>
+    <string name="title_activity_number_address_query">NumberAddressQueryActivity</string>
+
+</resources>
