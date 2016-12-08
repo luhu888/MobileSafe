@@ -11,7 +11,7 @@ import android.widget.CompoundButton;
 import com.luhu.MobileSafe.utils.BaseSetupActivity;
 
 /**
- * Created by Administrator on 2016/9/27.
+ * Created by LuHu on 2016/9/27.
  */
 public class Setup4Activity extends BaseSetupActivity {
     private SharedPreferences sp;

@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by Administrator on 2016/9/30.
+ * Created by LuHu on 2016/9/30.
  */
 public class SelectContactActivity extends AppCompatActivity {
     private static final String TAG = "SelectContactActivity";

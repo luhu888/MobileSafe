@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import com.luhu.MobileSafe.utils.BaseSetupActivity;
 /**
- * Created by Administrator on 2016/9/27.
+ * Created by LuHu on 2016/9/27.
  */
 public class Setup3Activity extends BaseSetupActivity {
     private EditText et_setup3_phone;

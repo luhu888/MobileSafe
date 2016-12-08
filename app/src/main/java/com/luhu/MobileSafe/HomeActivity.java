@@ -20,7 +20,7 @@ import android.widget.Toast;
 import com.luhu.MobileSafe.utils.MD5Utils;
 
 /**
- * Created by Administrator on 2016/9/23.
+ * Created by LuHu on 2016/9/23.
  */
 public class HomeActivity extends AppCompatActivity{
     private GridView list_home;

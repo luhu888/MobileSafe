@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 /**
- * Created by Administrator on 2016/10/6.
+ * Created by LuHu on 2016/10/6.
  */
 public class AtoolsActivity extends AppCompatActivity{
     @Override

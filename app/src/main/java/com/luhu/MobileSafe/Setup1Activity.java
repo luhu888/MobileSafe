@@ -10,7 +10,7 @@ import android.view.View;
 import com.luhu.MobileSafe.utils.BaseSetupActivity;
 
 /**
- * Created by Administrator on 2016/9/27.
+ * Created by LuHu on 2016/9/27.
  */
 public class Setup1Activity extends BaseSetupActivity{
         //1.定义一个手势识别器

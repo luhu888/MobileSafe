@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by Administrator on 2016/9/27.
+ * Created by LuHu on 2016/9/27.
  */
 public class LostFindActivity extends AppCompatActivity {
     private SharedPreferences sp;

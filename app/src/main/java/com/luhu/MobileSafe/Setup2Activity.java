@@ -14,7 +14,7 @@ import com.luhu.MobileSafe.ui.SettingItemView;
 import com.luhu.MobileSafe.utils.BaseSetupActivity;
 
 /**
- * Created by Administrator on 2016/9/27.
+ * Created by LuHu on 2016/9/27.
  */
 public class Setup2Activity extends BaseSetupActivity {
     private SettingItemView siv_setup2_sim;

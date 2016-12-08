@@ -7,7 +7,7 @@ import android.view.View;
 import com.luhu.MobileSafe.ui.SettingItemView;
 
 /**
- * Created by Administrator on 2016/9/25.
+ * Created by LuHu on 2016/9/25.
  */
 public class SettingActivity extends AppCompatActivity {
     private SettingItemView siv_update;
