@@ -6,8 +6,8 @@ import java.io.InputStream;
 
 public class StreamTools {
 	/**
-	 * @param is ??????
-	 * @return String ??????????
+	 * @param is 
+	 * @return String 
 	 * @throws IOException 
 	 */
 	public static String readFromStream(InputStream is) throws IOException{
