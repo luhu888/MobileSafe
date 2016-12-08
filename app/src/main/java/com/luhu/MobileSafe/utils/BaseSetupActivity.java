@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 
 /**
- * Created by Administrator on 2016/9/29.
+ * Created by LuHu on 2016/9/29.
  */
 public abstract class BaseSetupActivity extends AppCompatActivity{
      //1.定义一个手势识别器
